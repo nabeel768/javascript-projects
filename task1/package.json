@@ -1,0 +1,28 @@
+{
+  "name": "my-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "prettier": "prettier --write '**/*.{js,ts,json,md,html,ejs,css}'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabeel768/my-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabeel768/my-projects/issues"
+  },
+  "homepage": "https://github.com/nabeel768/my-projects#readme",
+  "devDependencies": {
+    "jest": "^29.4.1",
+    "prettier": "2.8.3"
+  },
+  "dependencies": {
+    "test": "^3.2.1"
+  }
+}
